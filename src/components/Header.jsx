@@ -47,7 +47,11 @@ const Header = () => {
               {/* <Zap className="h-6 w-6 text-white" /> */}
               <img src="https://res.cloudinary.com/dx3m8gmpa/image/upload/v1754312702/logo_copy_png_pexk0v.png" alt="Logo" className="h-8 w-8 rounded-full" />
             </motion.div>
-            <span className="text-2xl font-bold gradient-text-1">Vijaya Sri Enterprises</span>
+            {/* <span className="text-2xl font-bold gradient-text-1">Vijaya Sri Enterprises</span> */}
+            <span className="text-lg sm:text-xl md:text-2xl font-bold gradient-text-1">
+  Vijaya Sri Enterprises
+</span>
+
 
           </Link>
 
